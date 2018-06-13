@@ -17,7 +17,7 @@
     "id": 3,
     "enabled": true,
     "name": "Antena 3",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8",
+    "link_m3u8": "https://atresplayerp-i.akamaized.net/antena3mpp/master.m3u8",
     "link_logo": ""
   },
   {
@@ -52,7 +52,7 @@
     "id": 6,
     "enabled": true,
     "name": "La Sexta",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8",
+    "link_m3u8": "https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8",
     "link_logo": ""
   },
   {
